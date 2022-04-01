@@ -5,7 +5,7 @@ from selenium import webdriver
 from selenium.webdriver.support.select import Select
 from selenium.webdriver.common.by import By
 
-
+# code to automate ECommerce
 
 #initialize webdriver
 driver = webdriver.Chrome("C:\\Users\\Win7\\Downloads\\chromedriver_win32\\chromedriver.exe")
